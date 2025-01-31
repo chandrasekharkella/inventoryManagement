@@ -355,3 +355,47 @@ INFO 2025-01-31 15:02:41,040 autoreload C:\Users\LENOVO\Desktop\inventoryManagem
 INFO 2025-01-31 15:02:41,122 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\test.py changed, reloading.
 INFO 2025-01-31 15:02:42,192 autoreload Watching for file changes with StatReloader
 INFO 2025-01-31 15:02:42,252 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:13:46,713 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:13:47,911 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:14:40,349 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:15:13,539 autoreload Watching for file changes with StatReloader
+ERROR 2025-01-31 16:15:20,866 exception Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\middleware\security.py", line 28, in process_request
+    host = self.redirect_host or request.get_host()
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-01-31 16:15:20,952 log Bad Request: /api/ProductUpdateView
+INFO 2025-01-31 16:15:54,966 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:15:55,775 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:17:31,423 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:18:05,714 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:18:06,908 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:22:09,699 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:22:10,851 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:23:52,389 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:23:53,773 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:24:53,455 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:26:06,222 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:26:10,806 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 16:27:07,403 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:27:08,590 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:27:13,323 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 16:27:22,544 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 16:27:58,558 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:27:59,823 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:28:02,816 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:28:03,878 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:28:08,230 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 16:28:37,997 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:28:39,321 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:28:59,379 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:29:00,537 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 16:29:05,346 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 16:29:09,698 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\base.py changed, reloading.
+INFO 2025-01-31 16:29:10,930 autoreload Watching for file changes with StatReloader
