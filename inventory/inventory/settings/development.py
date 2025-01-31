@@ -34,8 +34,7 @@ EMAIL_HOST_PASSWORD = "castus1@3"
 EMAIL_USE_TLS = True
 ADMIN_EMAIL = "chandrasekharkella16@gmai.com"
 
-AWS_ACCESS_KEY_ID = ''
-AWS_SECRET_ACCESS_KEY = ''
+''
 
 
 SIMPLE_JWT.update({

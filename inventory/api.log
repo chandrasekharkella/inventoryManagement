@@ -347,3 +347,11 @@ INFO 2025-01-31 15:00:36,133 autoreload C:\Users\LENOVO\Desktop\inventoryManagem
 INFO 2025-01-31 15:00:36,286 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
 INFO 2025-01-31 15:00:37,296 autoreload Watching for file changes with StatReloader
 INFO 2025-01-31 15:00:37,437 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 15:02:11,904 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
+INFO 2025-01-31 15:02:11,916 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
+INFO 2025-01-31 15:02:13,033 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 15:02:13,064 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 15:02:41,040 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\test.py changed, reloading.
+INFO 2025-01-31 15:02:41,122 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\test.py changed, reloading.
+INFO 2025-01-31 15:02:42,192 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 15:02:42,252 autoreload Watching for file changes with StatReloader
