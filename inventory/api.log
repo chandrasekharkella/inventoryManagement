@@ -1,0 +1,333 @@
+INFO 2025-01-31 00:38:37,526 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:44:10,172 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:44:11,290 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:44:17,455 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:44:18,420 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:44:23,481 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:44:24,499 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:52:40,497 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:52:41,555 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:53:43,996 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:53:45,064 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:53:48,044 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:53:49,026 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:53:53,050 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 00:53:53,926 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:54:34,857 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 00:54:35,898 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:54:42,211 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 00:54:43,273 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 00:55:08,811 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 00:55:09,905 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:00:39,941 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:00:41,140 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:01:34,758 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:11:32,586 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:11:33,691 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:11:38,728 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:11:39,643 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:12:37,580 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:12:38,637 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:12:43,795 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:12:44,785 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:13:00,041 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:13:01,024 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:13:34,122 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:17:07,042 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\celery.py changed, reloading.
+INFO 2025-01-31 01:17:07,938 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:18:31,798 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\celery.py changed, reloading.
+INFO 2025-01-31 01:18:32,779 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:20:12,404 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:20:13,442 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:20:25,319 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:20:26,267 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:20:32,474 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:20:33,474 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:20:43,191 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:20:44,185 autoreload Watching for file changes with StatReloader
+ERROR 2025-01-31 01:21:10,992 signal Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x0000018125567490>> raised: AttributeError("'Celery' object has no attribute 'shared_task'")
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\fixups\django.py", line 140, in validate_models
+    run_checks()
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\core\checks\registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\core\checks\urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\core\checks\urls.py", line 26, in check_resolver
+    return check_method()
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\urls\resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\urls\resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\urls\resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\urls.py", line 23, in <module>
+    path('api/', include('products.url'))
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\django\urls\conf.py", line 39, in include
+    urlconf_module = import_module(urlconf_module)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\url.py", line 3, in <module>
+    from .views import ProductSearchView,GenerateDummyProductsView,ActiveProductsView,UserDataView,ProductUpdateView,WebhookReceiver
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py", line 24, in <module>
+    from .tasks import process_webhook
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py", line 9, in <module>
+    @app.shared_task(bind=True, autoretry_for=(requests.RequestException,), retry_backoff=True, retry_backoff_max=60, retry_jitter=True, max_retries=5)
+AttributeError: 'Celery' object has no attribute 'shared_task'
+ERROR 2025-01-31 01:21:11,002 signal Signal handler <promise@0x18125561760 --> <bound method Celery._autodiscover_tasks of <Celery inventory at 0x18125567b80>>> raised: AttributeError("'Celery' object has no attribute 'shared_task'")
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\app\base.py", line 698, in _autodiscover_tasks_from_names
+    return self.loader.autodiscover_tasks(
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\loaders\base.py", line 220, in autodiscover_tasks
+    mod.__name__ for mod in autodiscover_tasks(packages or (),
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\loaders\base.py", line 246, in autodiscover_tasks
+    return [find_related_module(pkg, related_name) for pkg in packages]
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\loaders\base.py", line 246, in <listcomp>
+    return [find_related_module(pkg, related_name) for pkg in packages]
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\venv\lib\site-packages\celery\loaders\base.py", line 270, in find_related_module
+    return importlib.import_module(module_name)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py", line 9, in <module>
+    @app.shared_task(bind=True, autoretry_for=(requests.RequestException,), retry_backoff=True, retry_backoff_max=60, retry_jitter=True, max_retries=5)
+AttributeError: 'Celery' object has no attribute 'shared_task'
+INFO 2025-01-31 01:21:48,646 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:21:49,641 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:30:57,765 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:30:58,888 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:31:13,002 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tasks.py changed, reloading.
+INFO 2025-01-31 01:31:13,950 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:33:01,454 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:33:02,451 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:33:37,062 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:33:38,040 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:34:09,363 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:34:10,440 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:34:14,583 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:34:15,473 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:34:30,775 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:34:31,842 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:34:51,548 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:34:52,511 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:34:55,404 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:34:56,277 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:35:03,700 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:35:04,716 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:35:18,978 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:35:19,949 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:35:25,256 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:35:26,189 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:35:42,651 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:35:43,796 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:35:47,761 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:35:48,738 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:35:53,793 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:35:54,712 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:36:03,221 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:36:04,176 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:36:40,820 autoreload Watching for file changes with StatReloader
+ERROR 2025-01-31 01:36:48,629 views Error updating product: process() missing 2 required positional arguments: 'url' and 'payload'
+ERROR 2025-01-31 01:36:48,630 log Internal Server Error: /api/ProductUpdateView
+INFO 2025-01-31 01:37:17,140 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:37:18,200 autoreload Watching for file changes with StatReloader
+ERROR 2025-01-31 01:37:27,952 views Error updating product: process() missing 1 required positional argument: 'payload'
+ERROR 2025-01-31 01:37:27,953 log Internal Server Error: /api/ProductUpdateView
+INFO 2025-01-31 01:37:47,025 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:37:47,998 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:38:49,454 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:38:50,431 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:38:55,606 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\tests.py changed, reloading.
+INFO 2025-01-31 01:38:56,649 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:41:47,514 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:41:48,527 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:41:51,647 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:41:52,536 autoreload Watching for file changes with StatReloader
+ERROR 2025-01-31 01:42:06,882 views Error updating product: 'ProductUpdateView' object has no attribute 'process'
+ERROR 2025-01-31 01:42:06,883 log Internal Server Error: /api/ProductUpdateView
+INFO 2025-01-31 01:44:49,812 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:44:50,916 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:45:07,521 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:45:08,451 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:48:42,553 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:48:43,444 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:49:05,446 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:49:06,337 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:49:23,945 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:49:24,874 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:49:50,367 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:49:51,259 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:50:23,422 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:50:24,299 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:50:41,938 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:50:42,842 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:51:14,541 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:51:15,416 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:51:25,072 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:51:25,943 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:51:34,480 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:51:35,426 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:52:17,282 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:52:17,855 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:52:22,042 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:52:22,562 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:52:55,675 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:52:56,210 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:52:58,830 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:52:59,313 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:53:01,924 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:53:02,412 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:53:08,199 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:53:08,681 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:53:14,984 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:53:15,517 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:53:21,857 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:53:22,422 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:53:25,557 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:53:26,076 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:54:02,446 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:54:02,972 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:54:05,594 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:54:06,070 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:54:13,993 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:54:14,544 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:54:17,161 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:54:17,671 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:55:13,335 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:55:13,868 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:55:15,971 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:55:16,557 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:55:22,966 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:55:23,524 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:55:29,954 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 01:55:30,598 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 01:55:42,306 views Webhook Task Started: http://127.0.0.1:8000/api/webhook | {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-30T20:25:42.231360+00:00'}
+INFO 2025-01-31 01:55:42,313 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-30T20:25:42.231360+00:00'}
+INFO 2025-01-31 14:32:52,087 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:33:14,042 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:33:53,021 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:34:24,866 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 14:34:30,097 views Retrieved 20 user records - Request by: cha***************16@gm**l.com
+INFO 2025-01-31 14:34:43,885 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\test.py changed, reloading.
+INFO 2025-01-31 14:34:44,989 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:34:55,619 views Webhook Task Started: http://127.0.0.1:8000/api/webhook | {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:04:55.422465+00:00'}
+INFO 2025-01-31 14:34:55,630 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:04:55.422465+00:00'}
+INFO 2025-01-31 14:35:01,082 views Webhook Task Started: http://127.0.0.1:8000/api/webhook | {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:05:00.941325+00:00'}
+INFO 2025-01-31 14:35:01,090 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:05:00.941325+00:00'}
+INFO 2025-01-31 14:36:47,578 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:36:47,895 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:36:48,673 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:36:48,943 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:36:51,943 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:36:52,128 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:36:52,856 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:36:53,053 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:36:57,085 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:36:57,336 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:36:58,027 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:36:58,261 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:02,338 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:02,532 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:03,293 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:03,494 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:06,514 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:06,637 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:07,470 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:07,595 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:16,286 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:16,361 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:17,318 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:17,385 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:24,954 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:24,966 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:25,924 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:25,947 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:43,646 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:43,672 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:37:44,662 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:37:44,668 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:03,496 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:03,518 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:04,443 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:04,450 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:12,006 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:12,050 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:13,058 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:13,122 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:18,323 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:18,477 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:19,304 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:19,484 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:22,352 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:22,561 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:23,343 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:23,560 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:29,809 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:29,988 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:38:30,800 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:38:31,012 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:14,299 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:14,482 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:15,302 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:15,454 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:33,188 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:33,814 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:34,172 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:34,799 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:43,388 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:44,002 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:44,336 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:44,998 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:47,980 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:48,473 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:39:48,978 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:39:49,497 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:40:08,280 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:40:08,877 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:40:09,279 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:40:09,867 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:40:12,321 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:40:12,899 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\products\views.py changed, reloading.
+INFO 2025-01-31 14:40:13,287 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:40:13,872 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:40:29,696 views Webhook Task Started: http://127.0.0.1:9000/api/webhook | {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:29.547734+00:00'}
+INFO 2025-01-31 14:40:29,705 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:29.547734+00:00'}
+INFO 2025-01-31 14:40:48,703 views Webhook Task Started: http://127.0.0.1:8000/api/webhook | {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:48.556025+00:00'}
+INFO 2025-01-31 14:40:48,713 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:48.556025+00:00'}
