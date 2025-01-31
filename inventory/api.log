@@ -331,3 +331,11 @@ INFO 2025-01-31 14:40:29,696 views Webhook Task Started: http://127.0.0.1:9000/a
 INFO 2025-01-31 14:40:29,705 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:29.547734+00:00'}
 INFO 2025-01-31 14:40:48,703 views Webhook Task Started: http://127.0.0.1:8000/api/webhook | {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:48.556025+00:00'}
 INFO 2025-01-31 14:40:48,713 views Webhook received from celerey...: {'product_id': 1, 'old_price': '1000.00', 'price': '1000', 'product_name': 'test_product', 'timestamp': '2025-01-31T09:10:48.556025+00:00'}
+INFO 2025-01-31 14:58:06,458 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
+INFO 2025-01-31 14:58:06,483 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
+INFO 2025-01-31 14:58:07,904 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:58:07,904 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:58:11,385 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
+INFO 2025-01-31 14:58:11,397 autoreload C:\Users\LENOVO\Desktop\inventoryManagement\inventory\inventory\settings\development.py changed, reloading.
+INFO 2025-01-31 14:58:12,580 autoreload Watching for file changes with StatReloader
+INFO 2025-01-31 14:58:12,583 autoreload Watching for file changes with StatReloader
